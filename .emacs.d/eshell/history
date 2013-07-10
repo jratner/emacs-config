@@ -1,0 +1,27 @@
+ls
+cd ..
+ls
+bower install
+ls
+ls public
+cd bower_components
+ls
+cd public/bower_components/
+ls
+ls jquery/
+ls
+ls socket.io-client/
+ls bin
+ls socket.io-client/bin
+ls socket.io-client/lib/
+ls
+ls handlebars.js/
+node prepDb.js 
+node prepDb.js 
+node prepDb.js 
+node prepDb.js 
+node prepDb.js 
+node prepDb.js 
+node prepDb.js 
+node prepDb.js 
+node prepDb.js 
